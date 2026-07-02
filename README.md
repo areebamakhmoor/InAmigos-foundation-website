@@ -61,7 +61,7 @@ No additional setup or installation is required.
 
 ## 📸 Preview
 
-! [Homepage](<img width="1915" height="892" alt="NGO webpage" src="https://github.com/user-attachments/assets/1c50b6e8-32fc-4b57-8ea9-cd4888d31f98" />)
+!<img width="1915" height="892" alt="NGO webpage" src="https://github.com/user-attachments/assets/1c50b6e8-32fc-4b57-8ea9-cd4888d31f98" />
 
 
 ---
